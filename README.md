@@ -25,8 +25,4 @@ To use the script, follow these steps:
 
 ## Contact
 
-If you want to contact me, you can reach me at `your-email@example.com`.
-
----
-
-Please replace `your-email@example.com` with your actual email address.
+If you want to contact me, you can reach me at rajan@assistant.work
